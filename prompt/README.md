@@ -22,6 +22,12 @@
 2.  파일 안에 당신이 받은 영감을 간결한 문장이나 질문 형식으로 자유롭게 기록합니다.
 3.  작성을 완료한 뒤, Pull Request를 보내주세요.
 
+## 분류(Categorization)
+
+- 이 디렉토리는 프롬프트들을 주제별로 분류하기 위한 용도로 확장되었습니다.
+- "확률 구름(Probabilistic Clouds)" 카테고리에 해당하는 프롬프트 및 관련 스크립트/샘플은 `prompt/probabilistic-clouds/`로 이동하였습니다.
+- 예: `probabilistic-banana-cloud.md`, `generate_banana_cloud.py`, `samples/banana_cloud_2048.json` 등.
+- 새로운 프롬프트를 추가할 때는 관련 카테고리 디렉토리(또는 새 카테고리)를 생성한 뒤 파일을 배치해 주세요.
 
 ## 💡 프롬프트 예시 (Examples)
 
